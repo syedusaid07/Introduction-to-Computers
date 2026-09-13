@@ -70,6 +70,10 @@ The history of computers can be divided into different generations:
 8. [ ] Merge Pull Request into `main`
 9. [ ] Verify final project
 
+# Image
+[Computer](https://pixabay.com/photos/apple-smartphone-desk-laptop-1282241/)
+
+
 **Useful Links:**
 
 [GitHub](https://github.com/)
